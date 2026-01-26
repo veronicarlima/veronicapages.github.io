@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "veronicapages",
+    "email": "veronicapages-2026@hotmail.com",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Backend Java Developer building API's using Springboot Framework for high-process Systems",
     "location": {
       "address": "",
       "postalCode": "",
@@ -14,56 +14,83 @@
     },
     "profiles": [
       {
-        "network": "Google Scholar",
+        "network": "LinkedIN",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://www.linkedin.com/in/ramiresveronica/"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Veronica Ramires Lima",
+        "url": "https://orcid.org/0009-0001-5546-0405"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Profile",
+        "url": "https://github.com/veronicarlima/"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "Company": "Itau Unibanco ",
+      "Area":"Financial/Banking",
+      "Field": "Software Engineer - Retail Services",
+      "Years Work" : "2021 - 2025",
+      "Projects Work-On": ""
+  
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "Company": "Original Bank - PicPay S.A",
+      "Area":"Financial/Banking",
+      "Field": "Java Developer",
+      "Years Work" : "2019 - 2021",
+      "Projects Work-On": ""
+  
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "Company": "CDF. ",
+      "Area":"Technology Support solutions with a national presence",
+      "Field": "Technical Support Analyst",
+      "Years Work" : "2014 - 2016",
+      "Projects Work-On": ""
+  
+    },
+    {
+      "Company": "RedeService Group",
+      "Area":"Consulting CRM in .NET",
+      "Field": "System Analyst .Net/SQL ",
+      "Years Work" : "2012 - 2013",
+      "Projects Work-On": "Analyzed system requirements and ensured proper homologation to enhance functionality  Provided user support through various channels, including email, telephone, and Skype.  Conducted technical visits to resolve complex customer issues, ensuring high satisfaction. Gained proficiency in SQL Server and VB6, contributing to system version creation" 
+    },
+    {
+      "Company": "Camisaria Colombo",
+      "Area":"Men's clothing brand",
+      "Field": "Junior Support Analyst",
+      "Years Work" : "2011 - 2012",
+      "Projects Work-On": "Support via telephone and remote access as physical stores nationwide, problem solving via Linux-Madriva command. It performed printer configuration and system configuration, as well as hardware and software, interacted with business rules and programming errors"
+  
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "education": [
+    {
+      "institution": "Uninove - Universidade Nove de Julho",
+      "area": "Computer Science",
+      "studyType": "Analyst and Developing Systems",
+      "startDate": "2011",
+      "endDate": "2013",
+      "gpa": 3.2,
+      "courses": [
+         "Developing systems for Big Corporations focus on Backend and Frontend skills",
+         "Architecture of Systems using diagrams like UML.",
+         "Governance of Systems since the project to the maintenance of the product",
+         "Infrastructure of IT the systems on the servers, how works on the computer networks and security of information"
+      ]
+    }
+  ],
+  "skills": ["Backend Developing Java Springboot, System Reability Engineer, Plataform Engineer, Tech Writer, Team Member"],
+  "languages": ["Java 8/11/17/21, SQL, Angular, Phyton"],
+  "interests": ["Frameworks, Patters, Archutecture Cloud, DevOps"],
+  "references": ["LinkedIn, GitHub Projects"],
   "publications": [
     {
       "name": "Paper Title Number 1",
@@ -71,27 +98,6 @@
       "releaseDate": "2009-10-01",
       "website": "http://academicpages.github.io/files/paper1.pdf",
       "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
     }
   ],
   "presentations": [
@@ -101,27 +107,6 @@
       "date": "2012-03-01",
       "location": "San Francisco, CA, USA",
       "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
     }
   ],
   "teaching": [
@@ -130,13 +115,6 @@
       "institution": "University 1, Department",
       "date": "2014-01-01",
       "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
       "description": ""
     }
   ],
